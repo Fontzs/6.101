@@ -1,0 +1,1 @@
+[OneSizeFitsQuorum/MIT6.824-2021: 4 labs + 2 challenges + 4 docs (github.com)](https://github.com/OneSizeFitsQuorum/MIT6.824-2021)
